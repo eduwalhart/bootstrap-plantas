@@ -58,3 +58,23 @@ body{
     background-color: rgba(127, 230, 11, 0.563);
 
 }
+.navbar2{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+.navbar2 .nav-item .nav-link{
+    color: rgb(11, 235, 29);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 30px;
+}
+.navbar2 .nav-item .nav-link:hover{
+    color: rgb(230, 138, 17);
+    text-shadow: 2px 2pc 2px rgb(30, 255, 0);
+}
+.body2{
+    background-image: url(../img/corcho.jpg);
+}
+.nosotros{
+    background-color: blueviolet;
+}
