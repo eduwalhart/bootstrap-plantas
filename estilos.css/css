@@ -33,3 +33,28 @@
 body{
     background-color: rgba(197, 232, 1, 0.971);
 }
+.body1{
+    background-image: url(../img/regar.jpg);
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar1{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+.navbar1 .nav-item .nav-link{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 30px;
+}
+.navbar1 .nav-item .nav-link:hover{
+    color: rgb(255, 0, 204);
+    text-shadow: 2px 2pc 2px rgb(255, 0, 0);
+}
+.h1r{
+    color: blue;
+    background-color: rgba(127, 230, 11, 0.563);
+
+}
